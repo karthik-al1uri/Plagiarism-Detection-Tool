@@ -1,4 +1,3 @@
-Certainly! Here's a README file template for your GitHub repository:
 
 ---
 
@@ -72,6 +71,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to adjust the content as needed to fit your project's specifics.
